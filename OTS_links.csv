@@ -1,0 +1,12 @@
+OTS Links
+Trailing,no
+
+From,To,Length,Fibers,Cost,Designation,Delay
+node_1,node_2,252.581681234657,100,1,node_1 <-> node_2,FIBER
+node_2,node_3,983.733536567628,100,1,node_2 <-> node_3,FIBER
+node_3,node_4,1408.08008481519,100,1,node_3 <-> node_4,FIBER
+node_4,node_5,1100.9931466368,100,1,node_4 <-> node_5,FIBER
+node_5,node_6,728.210412882562,100,1,node_5 <-> node_6,FIBER
+node_6,node_7,505.431283092647,100,1,node_6 <-> node_7,FIBER
+node_7,node_8,469.246849678612,100,1,node_7 <-> node_8,FIBER
+node_8,node_9,675.246387560267,100,1,node_8 <-> node_9,FIBER

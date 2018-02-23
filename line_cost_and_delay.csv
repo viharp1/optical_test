@@ -1,0 +1,29 @@
+Link User Costs and Delays
+
+Layer,From,To,Designation,Cost,Delay
+OTS,node_1,node_2,node_1 <-> node_2,1,FIBER
+OTS,node_2,node_3,node_2 <-> node_3,1,FIBER
+OTS,node_3,node_4,node_3 <-> node_4,1,FIBER
+OTS,node_4,node_5,node_4 <-> node_5,1,FIBER
+OTS,node_5,node_6,node_5 <-> node_6,1,FIBER
+OTS,node_6,node_7,node_6 <-> node_7,1,FIBER
+OTS,node_7,node_8,node_7 <-> node_8,1,FIBER
+OTS,node_8,node_9,node_8 <-> node_9,1,FIBER
+OMS,node_1,node_2,node_1 <-> node_2,1,LOWER_LAYER
+OMS,node_2,node_3,node_2 <-> node_3,1,LOWER_LAYER
+OMS,node_3,node_4,node_3 <-> node_4,1,LOWER_LAYER
+OMS,node_4,node_5,node_4 <-> node_5,1,LOWER_LAYER
+OMS,node_5,node_6,node_5 <-> node_6,1,LOWER_LAYER
+OMS,node_6,node_7,node_6 <-> node_7,1,LOWER_LAYER
+OMS,node_7,node_8,node_7 <-> node_8,1,LOWER_LAYER
+OMS,node_8,node_9,node_8 <-> node_9,1,LOWER_LAYER
+OCH,node_1,node_2,node_1 <c> node_2,1,LOWER_LAYER
+OCH,node_2,node_3,node_2 <c> node_3,1,LOWER_LAYER
+OCH,node_3,node_4,node_3 <c> node_4,1,LOWER_LAYER
+OCH,node_4,node_5,node_4 <c> node_5,1,LOWER_LAYER
+OCH,node_5,node_6,node_5 <c> node_6,1,LOWER_LAYER
+OCH,node_6,node_7,node_6 <c> node_7,1,LOWER_LAYER
+OCH,node_7,node_8,node_7 <c> node_8,1,LOWER_LAYER
+OCH,node_8,node_9,node_8 <c> node_9,1,LOWER_LAYER
+OCH,node_7,node_8,node_7 <-> node_8,1,LOWER_LAYER
+OCH,node_8,node_9,node_8 <-> node_9,1,LOWER_LAYER

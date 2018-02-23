@@ -1,0 +1,30 @@
+Device Settings
+
+Name,Type,XC Type
+node_1,DXC,Continuous
+node_1,OXC,Continuous
+node_1,ODU XC,Continuous
+node_2,DXC,Continuous
+node_2,OXC,Continuous
+node_2,ODU XC,Continuous
+node_3,DXC,Continuous
+node_3,OXC,Continuous
+node_3,ODU XC,Continuous
+node_4,DXC,Continuous
+node_4,OXC,Continuous
+node_4,ODU XC,Continuous
+node_5,DXC,Continuous
+node_5,OXC,Continuous
+node_5,ODU XC,Continuous
+node_6,DXC,Continuous
+node_6,OXC,Continuous
+node_6,ODU XC,Continuous
+node_9,DXC,Continuous
+node_9,OXC,Continuous
+node_9,ODU XC,Continuous
+node_7,DXC,Continuous
+node_7,OXC,Continuous
+node_7,ODU XC,Continuous
+node_8,DXC,Continuous
+node_8,OXC,Continuous
+node_8,ODU XC,Continuous

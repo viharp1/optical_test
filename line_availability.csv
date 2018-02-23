@@ -1,0 +1,11 @@
+Line Availabilities
+
+From,To,Designation,Method,Value,MTTR
+node_1,node_2,node_1 <-> node_2,INHERIT,1,0
+node_2,node_3,node_2 <-> node_3,INHERIT,1,0
+node_3,node_4,node_3 <-> node_4,INHERIT,1,0
+node_4,node_5,node_4 <-> node_5,INHERIT,1,0
+node_5,node_6,node_5 <-> node_6,INHERIT,1,0
+node_6,node_7,node_6 <-> node_7,INHERIT,1,0
+node_7,node_8,node_7 <-> node_8,INHERIT,1,0
+node_8,node_9,node_8 <-> node_9,INHERIT,1,0

@@ -1,0 +1,19 @@
+OMS Candidate Connection List
+
+From,To,Name,Supported Link,Type,Sub-routes
+node_1,node_2,node_1 <cc> node_2,node_1 <c> node_2,LH 40-WDM,start_node,node_1,designations,node_1 <-> node_2,priority,0,direction,forward,type,no_protection
+,,,,,start_node,node_2,designations,node_1 <-> node_2,priority,0,direction,reverse,type,no_protection
+node_2,node_3,node_2 <cc> node_3,node_2 <c> node_3,LH 40-WDM,start_node,node_2,designations,node_2 <-> node_3,priority,0,direction,forward,type,no_protection
+,,,,,start_node,node_3,designations,node_2 <-> node_3,priority,0,direction,reverse,type,no_protection
+node_3,node_4,node_3 <cc> node_4,node_3 <c> node_4,LH 40-WDM,start_node,node_3,designations,node_3 <-> node_4,priority,0,direction,forward,type,no_protection
+,,,,,start_node,node_4,designations,node_3 <-> node_4,priority,0,direction,reverse,type,no_protection
+node_4,node_5,node_4 <cc> node_5,node_4 <c> node_5,LH 40-WDM,start_node,node_4,designations,node_4 <-> node_5,priority,0,direction,forward,type,no_protection
+,,,,,start_node,node_5,designations,node_4 <-> node_5,priority,0,direction,reverse,type,no_protection
+node_5,node_6,node_5 <cc> node_6,node_5 <c> node_6,LH 40-WDM,start_node,node_5,designations,node_5 <-> node_6,priority,0,direction,forward,type,no_protection
+,,,,,start_node,node_6,designations,node_5 <-> node_6,priority,0,direction,reverse,type,no_protection
+node_6,node_7,node_6 <cc> node_7,node_6 <c> node_7,LH 40-WDM,start_node,node_6,designations,node_6 <-> node_7,priority,0,direction,forward,type,no_protection
+,,,,,start_node,node_7,designations,node_6 <-> node_7,priority,0,direction,reverse,type,no_protection
+node_7,node_8,node_7 <cc> node_8,node_7 <c> node_8,LH 40-WDM,start_node,node_7,designations,node_7 <-> node_8,priority,0,direction,forward,type,no_protection
+,,,,,start_node,node_8,designations,node_7 <-> node_8,priority,0,direction,reverse,type,no_protection
+node_8,node_9,node_8 <cc> node_9,node_8 <c> node_9,LH 40-WDM,start_node,node_8,designations,node_8 <-> node_9,priority,0,direction,forward,type,no_protection
+,,,,,start_node,node_9,designations,node_8 <-> node_9,priority,0,direction,reverse,type,no_protection

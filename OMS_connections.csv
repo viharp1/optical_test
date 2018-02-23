@@ -1,0 +1,8 @@
+OMS Connection List
+
+From,To,Service Designation,Supported Link Designation,Required Availability,Type,Equipped Bands,Sub-routes
+node_7,node_8,node_7 <--> node_8,node_7 <-> node_8,0,LH 40-WDM,1 2 3 ,start_node,node_7,designations,node_7 <-> node_8,subdesignations,1 ,priority,0,direction,forward,type,no_protection
+,,,,,,,start_node,node_8,designations,node_7 <-> node_8,subdesignations,2 ,priority,0,direction,reverse,type,no_protection
+node_8,node_9,node_8 <--> node_9,node_8 <-> node_9,0,LH 40-WDM,1 2 3 ,start_node,node_8,designations,node_8 <-> node_9,subdesignations,1 ,priority,0,direction,forward,type,no_protection
+,,,,,,,start_node,node_9,designations,node_8 <-> node_9,subdesignations,2 ,priority,0,direction,reverse,type,no_protection
+node_9,node_7,node_9 <--> node_7,,0,LH 40-WDM,1 2 3 

@@ -1,0 +1,6 @@
+SONET/SDH Rings
+Ring Type,Legacy
+
+Layer,Name,Ring Model,Ring Type,Bit Rate,Capacity,Nodes
+DCL,Ring#1,Generic,SNCP,STM-1,0,node_7,node_8,node_9,,designations,node_7 <c> node_8,node_8 <c> node_9,node_9 <c> node_7,ring_designations,node_7 <c> node_8,node_8 <c> node_9,node_9 <c> node_7
+DCL,Ring#1-1,Generic,SNCP,STM-1,1,node_7,node_8,node_9,,designations,node_7 <-> node_8,node_8 <-> node_9,node_9 <-> node_7,subdesignations,1 ,1 ,1 ,ring_designations,node_7 <-> node_8,node_8 <-> node_9,node_9 <-> node_7
